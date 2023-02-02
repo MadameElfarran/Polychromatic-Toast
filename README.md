@@ -21,7 +21,7 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 * Plenty of new mobs from '_Creatures from the Snow_', '_Naturalist_', '_Friends & Foes_' and more
 * A splash of tech mods with custom configurations for compatibility such as '_Wired Redstone_' & '_YTTR_'
 * Customise almost every aspect of the game with various tutorials and walkthroughs on the wiki 
-  * Accessibility features such as colorblind and view bob tuning.
+  * Accessibility features such as ~colorblind modes~ and view bob tuning.
   * Do note that some of the tutorials require basic knowledge of various scripts
 
 ## FAQ
