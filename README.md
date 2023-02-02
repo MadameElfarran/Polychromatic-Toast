@@ -17,7 +17,7 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 * Optimisations abound, the modpack is tested frequently to ensure smoother gameplay
     * > Easily customisable through tutorials found on the (P)Toast wiki
 * Enough adventure & world generation additions to retain average framerates
-    * Mainly '_BYG_', '_Better Nether_' & Yung's structure replacements
+    * > Mainly '_BYG_', '_Better Nether_' & Yung's structure replacements
 * Plenty of new mobs from '_Creatures from the Snow_', '_Naturalist_', '_Friends & Foes_' and more
 * A splash of tech mods with custom configurations for compatibility such as '_Wired Redstone_' & '_YTTR_'
 * Accessability features such as colorblind and view bob tuning.
