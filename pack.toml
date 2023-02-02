@@ -1,0 +1,13 @@
+name = "Polychromatic Toast"
+author = "MadameElfarran"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "df3a483b8de8647d05fba38db8a4a852d11fd1b61a613eb02be321d8d3736534"
+
+[versions]
+fabric = "0.14.13"
+minecraft = "1.19.2"
