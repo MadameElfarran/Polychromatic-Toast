@@ -20,6 +20,7 @@ This passion project of mine was born from a desire to make minecraft awesome fo
       * Mainly '_BYG_', '_Better Nether_' & Yung's structure replacements
 * Plenty of new mobs from '_Creatures from the Snow_', '_Naturalist_', '_Friends & Foes_' and more
 * A splash of tech mods with custom configurations for compatibility such as '_Wired Redstone_' & '_YTTR_'
+* Accessability features such as colorblind and view bob tuning.
 * Customise almost every aspect of the game with various tutorials and walkthroughs on the wiki 
    * > Do note that some of the tutorials require basic knowledge of various scripts
 
@@ -32,4 +33,4 @@ Can I use MultiMC with this pack?
 Such an odd name choice, why did ya pick it o' estranged modpack developer?
 
 > *it came to me in a dream...*  
-It was actually an idea I had for an item to add to my modded singlplayer world. I like the idea of a piece of toast made of different colors which then inspired me to make this pack. :p
+It was actually an idea I had for an item to add to my modded singlplayer world. I like the idea of a piece of toast made of different colors which then inspired me to make this pack. 🍞
