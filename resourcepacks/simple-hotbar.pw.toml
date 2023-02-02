@@ -1,0 +1,13 @@
+name = "Simple Hotbar"
+filename = "SimpleHotbar.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1564d3682a472c62b393e80f1cf8a3dff27f26e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4344390
+project-id = 794499
