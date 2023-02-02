@@ -16,10 +16,10 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 
 * Optimisations abound, the modpack is tested frequently to ensure smoother gameplay
     * Easily customisable through tutorials found on the (P)Toast wiki
-* Enough adventure & world generation mods to retain average framerates
-* Decorations, furniture
-* Plenty of new mobs from Creatures from the Snow, Naturalist,  and more
-* Easily customisable through tutorials found on the (P)Toast wiki
+* Enough adventure & world generation additions to retain average framerates
+      * Mainly 'BYG', 'Better Nether' & Yung's structure replacements
+* Plenty of new mobs from 'Creatures from the Snow', 'Naturalist', 'Friends & Foes' and more
+* A splash of tech mods with custom configurations for compatibility such as wired redstone & yttr
 
 ## FAQ
 
