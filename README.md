@@ -15,6 +15,7 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 ## Features
 
 * Optimisations abound, the modpack is tested frequently to ensure smoother gameplay
+    * Easily customisable through tutorials found on the (P)Toast wiki
 * Enough adventure & world generation mods to retain average framerates
 * Decorations, furniture
 * Plenty of new mobs from Creatures from the Snow, Naturalist,  and more
