@@ -1,0 +1,13 @@
+name = "Title Fixer"
+filename = "titlefixer-1.0+1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42419463f12c0460e8a0bbb7ed668be2500ee19a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3554223
+project-id = 528170

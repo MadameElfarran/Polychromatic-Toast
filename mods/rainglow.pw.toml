@@ -1,0 +1,13 @@
+name = "rainglow"
+filename = "rainglow-1.0.0+mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed2656fe2415ad76ad7541300515eeb234d295a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4089566
+project-id = 682310

@@ -1,0 +1,13 @@
+name = "Ost Overhaul"
+filename = "ostOverhaul-0.2.6-1.19.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5cd0e4db493cec6802a4ab3716d4bfe3c236418c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3923373
+project-id = 504439

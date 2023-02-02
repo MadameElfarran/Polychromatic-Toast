@@ -1,0 +1,13 @@
+name = "The Printer"
+filename = "theprinter-1.1.0+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9cd3a7a70e497fc040ba7c4c3028a427a594a531"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4057512
+project-id = 663055

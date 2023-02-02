@@ -1,0 +1,13 @@
+name = "Sleep Sooner"
+filename = "sleepsooner-1.19.2-4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23513202327586a6bfbf114a0ff727fc29f47c86"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4311691
+project-id = 302544

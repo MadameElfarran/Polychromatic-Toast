@@ -1,0 +1,13 @@
+name = "Sculpt (FABRIC)"
+filename = "sculpt-1.19.2-fabric-v3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e21ee5e0789dffd94f53b6d07ce454d36d44da07"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4371944
+project-id = 819790

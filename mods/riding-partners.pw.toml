@@ -1,0 +1,13 @@
+name = "Riding Partners"
+filename = "riding_partners-1.0.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46fb14e6dc4b9269e05094afdb60aa4ce5e270d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4367972
+project-id = 818725
