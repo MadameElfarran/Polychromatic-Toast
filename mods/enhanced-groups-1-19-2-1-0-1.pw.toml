@@ -1,0 +1,7 @@
+name = "enhanced-groups-1.19.2-1.0.1"
+filename = "enhanced-groups-1.19.2-1.0.1.jar"
+
+[download]
+url = "https://github.com/henkelmax/enhanced-groups/releases/download/1.19.2-1.0.1/enhanced-groups-1.19.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "59db5271508cb3eb7fe875615a9a2fefd01f5da2"

@@ -1,0 +1,13 @@
+name = "Cursor Mod (Fabric/Forge)"
+filename = "FabricCustomCursorMod-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0fb4875ed046e277247a761a2cf2274af48bc5ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3856410
+project-id = 278476

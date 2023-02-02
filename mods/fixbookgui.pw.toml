@@ -1,0 +1,13 @@
+name = "FixBookGUI"
+filename = "fixbookgui-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e04efc430fdc29aea1d9930e6000d1afebc34a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4353068
+project-id = 811449

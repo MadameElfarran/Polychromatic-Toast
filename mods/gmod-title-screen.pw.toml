@@ -1,0 +1,13 @@
+name = "[Fabric] GMod Title Screen"
+filename = "gmod-title-screen-1.1+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "348762a975fc8244ff722315df6c20d0a67fe6ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4077840
+project-id = 699839
