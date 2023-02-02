@@ -1,0 +1,13 @@
+name = "Markdown Manual"
+filename = "markdown_manual-MC1.19.2-fabric-1.2.3+87774e1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "089d49a5b56dc4738dfe75d2365fe54bb7b7a379"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4306670
+project-id = 502485

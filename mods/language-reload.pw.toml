@@ -1,0 +1,13 @@
+name = "Language Reload"
+filename = "language-reload-1.5.4+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27bb15b2631ef79c112f91585549bbe2c736fe5b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4337552
+project-id = 527334

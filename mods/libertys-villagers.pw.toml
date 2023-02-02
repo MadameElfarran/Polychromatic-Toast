@@ -1,0 +1,13 @@
+name = "Liberty's Villagers"
+filename = "liberty-villagers-mod-1.0.13+fabric+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c5afba35c5a4123d438b504749d10384e224554"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4360744
+project-id = 700485

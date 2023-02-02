@@ -1,0 +1,13 @@
+name = "Lighting Wand 🌟 (Fabric)"
+filename = "LightingWand-1.19-fabric-5.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "50eb8674bd9952af35c06d84d3ff4c004de33455"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3882679
+project-id = 558346

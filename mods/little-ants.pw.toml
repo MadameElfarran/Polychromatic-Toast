@@ -1,0 +1,13 @@
+name = "Little Ants [FABRIC]"
+filename = "little-ants-1.19.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "204fb6e62cb00fe581bd3b4fc768185d25e9e7de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4195569
+project-id = 635776

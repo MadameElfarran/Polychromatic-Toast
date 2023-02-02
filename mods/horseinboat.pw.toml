@@ -1,0 +1,13 @@
+name = "HorseInBoat"
+filename = "horseinboat-fabric-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e24f273a14d8e43e4fe1b6a024da17925c83333"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3855751
+project-id = 576601
