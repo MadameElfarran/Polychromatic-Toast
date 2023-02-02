@@ -1640,11 +1640,6 @@ hash = "611b31ff3e926c87eb30ac51161729d31f341813d4d2b68812412c52f7c6f03f"
 metafile = true
 
 [[files]]
-file = "mods/slideshow-1-19-2-1-0-2-hotfix-1.pw.toml"
-hash = "0df4e9842c4a2730032564b215eda2b8ee1d19d3f1ecf7d5de588da02392c723"
-metafile = true
-
-[[files]]
 file = "mods/slideshow-fabric.pw.toml"
 hash = "425b0d729af3c80c789a6165250a4a99c8394d4cc6b6640581eac0c8990ff602"
 metafile = true
