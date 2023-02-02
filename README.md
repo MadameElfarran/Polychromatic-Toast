@@ -20,8 +20,8 @@ This passion project of mine was born from a desire to make minecraft awesome fo
     * > Mainly '_BYG_', '_Better Nether_' & Yung's structure replacements
 * Plenty of new mobs from '_Creatures from the Snow_', '_Naturalist_', '_Friends & Foes_' and more
 * A splash of tech mods with custom configurations for compatibility such as '_Wired Redstone_' & '_YTTR_'
-* Accessability features such as colorblind and view bob tuning.
 * Customise almost every aspect of the game with various tutorials and walkthroughs on the wiki 
+  * > Accessibility features such as colorblind and view bob tuning.
    * > Do note that some of the tutorials require basic knowledge of various scripts
 
 ## FAQ
