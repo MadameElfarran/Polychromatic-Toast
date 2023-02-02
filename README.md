@@ -27,7 +27,7 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 
 Can I use MultiMC with this pack?
 
-> I actually recommend a third party launcher but make sure you have security software whenever using unnoffical programs. The last thing I want is for users to be exploited by malicious developers.
+> I actually recommend a third party launcher, however, make sure you have security software installed on your computer when using unnoffical programs. The last thing I want is for users to be exploited by malicious developers.
 
 Such an odd name choice, why did ya pick it o' estranged modpack developer?
 
