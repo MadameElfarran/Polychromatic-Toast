@@ -14,6 +14,8 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 
 ## Features
 
+Balance is a personal goal of mine when it comes to minecraft modding so there's a splash of everything:
+
 * Adventure & world generation additions
   * Mainly _'BYG'_, _'Better Nether'_ & Yung's mods
 * Plenty of new mobs from _'Creatures from the Snow'_, _'Naturalist'_, _'Friends & Foes'_ and more
