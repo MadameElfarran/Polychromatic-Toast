@@ -1,0 +1,13 @@
+name = "Variant Barrels [Fabric/Quilt]"
+filename = "variantbarrels-2.4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d435d516eb2224627f7de042435b547e60a59420"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4100211
+project-id = 576766

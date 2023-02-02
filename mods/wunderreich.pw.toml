@@ -1,0 +1,13 @@
+name = "Wunderreich"
+filename = "wunderreich-3.0.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac55b530781dd56bd888e7ecb2897ba73e5d535d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4046742
+project-id = 601579

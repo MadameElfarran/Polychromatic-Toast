@@ -1,0 +1,13 @@
+name = "YDM's Allay "
+filename = "allay-fabric-4.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41d8a3ba5479ed5a7180ef0bde78d88b1db50510"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3906394
+project-id = 538828
