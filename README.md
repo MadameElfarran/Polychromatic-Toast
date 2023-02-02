@@ -1,7 +1,7 @@
 # Polychromatic-Toast
 Colorful Minecraft Modpack
 
-The Toast pack is a semi-minimalistic hand-picked, modular modpack for 1.19.2.
+The (P)Toast pack is a semi-minimalistic hand-picked, modular modpack for 1.19.2.
 
 This passion project of mine was born from a desire to make minecraft awesome for my and my friends.
 
@@ -14,10 +14,17 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 
 ## Features
 
-* optimisations abound, 
+* Optimisations abound, the modpack is tested frequently to ensure smoother gameplay
 * Enough adventure & world generation mods to retain average framerates
+* Decorations, furniture
+* Plenty of new mobs from Creatures from the Snow, Naturalist,  and more
+* Easily customisable through tutorials found on the (P)Toast wiki
 
 ## FAQ
+
+Can I use MultiMC with this pack?
+
+> I actually recommend a third party launcher but make sure you have security software whenever using unnoffical programs. The last thing I want is for users to be exploited by malicious developers.
 
 Such an odd name choice, why did ya pick it o' estranged modpack developer?
 
