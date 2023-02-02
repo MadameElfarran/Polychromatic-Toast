@@ -14,7 +14,7 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 
 ## Features
 
-* Optimisations abound, the modpack is tested frequently to ensure smoother gameplay
+* ####### Optimisations abound, the modpack is tested frequently to ensure smoother gameplay
   * <sub> Easily customisable through tutorials found on the (P)Toast wiki
 * Enough adventure & world generation additions to retain average framerates
   * <sub> Mainly '_BYG_', '_Better Nether_' & Yung's structure replacements
