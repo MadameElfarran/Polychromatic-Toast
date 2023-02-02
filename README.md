@@ -32,7 +32,7 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
 
 Can I use MultiMC/ATLauncher etc. with this pack?
 
-> I actually recommend a third party launcher like the ones mentioned above, however, make sure you have security software installed on your computer when using unnoffical programs. The last thing I want is for users to be exploited by malicious developers. That is to say, not everyone evil just be cautious!
+> I actually recommend a third party launcher because MultiMC allows automatic mod updates which I've setup for this pack. However, make sure you have security software installed on your computer when using unnoffical programs. The last thing I want is for users to be exploited by malicious developers. That is to say, not everyone evil just be cautious!
 
 Such an odd name choice, why did ya pick it o' estranged modpack developer?
 
