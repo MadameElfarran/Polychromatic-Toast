@@ -1,0 +1,7 @@
+name = "Apoli"
+filename = "Apoli-1.19.2-2.6.1.jar"
+
+[download]
+url = "https://github.com/apace100/apoli/releases/download/v2.6.1/Apoli-1.19.2-2.6.1.jar"
+hash-format = "sha1"
+hash = "77118b9b8644a47fe174445ec0041fcaa35c4ed1"

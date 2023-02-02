@@ -1,0 +1,13 @@
+name = "ChocoCraft"
+filename = "chococraft-1.19.2-fabric-0.6.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a35becea980637480487aaff397a730c55847fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4328413
+project-id = 225280

@@ -1,0 +1,13 @@
+name = "Better Resource Pack Sorting"
+filename = "better-resource-pack-sorting-mc1.19-2.0.0+build.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6bce4717f3129a8795207bb5ad3378e958068ecb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3852594
+project-id = 556855

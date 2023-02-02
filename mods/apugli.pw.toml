@@ -1,0 +1,13 @@
+name = "Apugli"
+filename = "Apugli-1.12.2+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb1c2cb6ad94aabf5b83ad06916f36dba9c5ebc6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4370404
+project-id = 579886

@@ -1,0 +1,13 @@
+name = "Better Christmas Chests"
+filename = "better-christmas-chests-mc1.19-4.0.1+build.17.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9c401c5289b775cad5b6962c52688997cf77e44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4032192
+project-id = 431029

@@ -1,0 +1,13 @@
+name = "Automobility"
+filename = "automobility-0.4.1+1.19.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37c854a0ca8a2d12c47ef60b177881333a9d65ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4109700
+project-id = 658286

@@ -1,0 +1,13 @@
+name = "Aphid Additions"
+filename = "mantori-1.19.2-1.1.2-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5abc1ae301c250fc58dfd70e0ae967cf01a9125"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4036662
+project-id = 627488

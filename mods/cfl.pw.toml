@@ -1,0 +1,13 @@
+name = "Colored Fishing Line"
+filename = "coloredfishingline-1.19-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "774c1d82ebd1553d0e8f8704907dad3b8d9e5f08"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3945142
+project-id = 663237
