@@ -17,7 +17,7 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 * Adventure & world generation additions
   * Mainly _'BYG'_, _'Better Nether'_ & Yung's mods
 * Plenty of new mobs from _'Creatures from the Snow'_, _'Naturalist'_, _'Friends & Foes'_ and more
-* A splash of tech mods such as _'Wired Redstone'_ & _'YTTR'_
+* A splash of tech mods such as  _'YTTR'_ & _'Wired Redstone'_
 * Optimisations abound, the modpack is tested frequently to ensure smoother gameplay
   * Easily customisable: check the wiki
 * Customise almost every aspect of the game.
