@@ -1986,36 +1986,3 @@ hash = "ca066175b39212d266ec1935891466a43a66c04d6d5b321c63ac7a097b948ae3"
 [[files]]
 file = "options.txt"
 hash = "3e08becc44dd81e9ef3339424ab92a40ab83c956ea787ab974e08ade5383d66b"
-
-[[files]]
-file = "resourcepacks/Basic Nether Ores 16x.zip"
-hash = "f832fc383de5f432921f47a5db2b6deac0d3ae19b90147791a731307721600b4"
-
-[[files]]
-file = "resourcepacks/Unsanded-1.1.1.zip"
-hash = "142ab1892ef17920525cf4852dc2c0075c765637c7bb58386771230f88b46312"
-
-[[files]]
-file = "resourcepacks/simple-hotbar.pw.toml"
-hash = "31c2ee84730c553e094a27524010fad85236ee0bdd54d9447c737e819d5ea3a2"
-metafile = true
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.4.zip"
-hash = "592c12605d03c345e15698d6020a892c865f56b3bcb117bcc9e41358f7df6584"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.4.zip.txt"
-hash = "d02d92a265c3d97388994215abc32cd450265d372978359fbe493f784b54a432"
-
-[[files]]
-file = "shaderpacks/ComplementaryShaders_v4.7.1.zip"
-hash = "284e93ea11d18cd94ad421947e1b740b3237486b986daaa933e52424bc154da6"
-
-[[files]]
-file = "shaderpacks/ComplementaryShaders_v4.7.1.zip.txt"
-hash = "118429712e4f5f4bc938fc73b77d4f1af23c8afca0ded145a97b71b5b6584c03"
-
-[[files]]
-file = "shaderpacks/MakeUp-UltraFast-8.6g.zip"
-hash = "992b4076cb5141062f5da84b0812ba1f81acb5eb121f8a7a11d45d3a7c24b195"
