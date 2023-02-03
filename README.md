@@ -12,7 +12,7 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 .  
 .  
 .  
-#### > Remember to report **crashes** to the issues tab on this page or msg me on discord
+### Remember to report **crashes** to the issues tab on this page or msg me on discord
 
 ## Features
 
