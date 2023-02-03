@@ -13,7 +13,7 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 .  
 .  
 <h3> <p align="center">
-Remember to report crashes to the <a href="https://github.com/MadameElfarran/Polychromatic-Toast/issues">issues</a> tab on this <sup>page or msg me on discord</sup>
+Remember to report crashes to the <a href="https://github.com/MadameElfarran/Polychromatic-Toast/issues">issues</a> page or <sup>msg me on discord</sup>
 </p> </h3>
  
 ## Features
