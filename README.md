@@ -12,7 +12,6 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 .  
 .  
 .  
-
 <p align="center">
 <em> <strong> Remember to report crashes to the issues tab on this page or msg me on discord
 </p>
