@@ -12,8 +12,10 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 .  
 .  
 .  
+<p align="center">
 ### Remember to report **crashes** to the issues tab on this page or msg me on discord
-
+</p>
+ 
 ## Features
 
 Balance is a personal goal of mine when it comes to minecraft modding so there's a splash of everything:
