@@ -1275,6 +1275,11 @@ hash = "752b44c861c55c7d3a19f8278e00cee3c5e02d465cc522d596f512045792b245"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+metafile = true
+
+[[files]]
 file = "mods/midas-hunger-fabric.pw.toml"
 hash = "a9d5c9d072444e986a68e3af4b8debf811f49ccf97f04edfb1cae99ef99ac9c3"
 metafile = true
