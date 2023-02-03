@@ -1,9 +1,9 @@
 # Polychromatic-Toast
-Colorful Minecraft Modpack
+A Colorful Minecraft Modpack
 
 The (P)Toast pack is a semi-minimalistic hand-picked, modular modpack for 1.19.2.
 
-This passion project of mine was born from a desire to make minecraft awesome for me and my friends.
+This passion project of mine was born from a desire to make minecraft awesome for me and my friends. Though this *is* mainly a personal endeavour for my singleplayer adventures.
 
 > This project is a work in progress!
  
@@ -38,4 +38,4 @@ Can I use MultiMC/ATLauncher etc. with this pack?
 Such an odd name choice, why did ya pick it o' estranged modpack developer?
 
 > *it came to me in a dream...*  
-It was actually an idea I had for an item to add to my modded singlplayer world. I like the idea of a piece of toast made of different colors which then inspired me to make this pack. 🍞
+It was actually an idea I had for an item to add to my modded singleplayer world. I like the idea of a piece of toast made of different colors which then inspired me to make this pack. 🍞
