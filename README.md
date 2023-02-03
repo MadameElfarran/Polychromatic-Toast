@@ -13,7 +13,7 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 .  
 .  
 <p align="center">
-<em> Remember to report crashes to the <b>issues tab on this page or msg me on discord
+<em> Remember to report crashes to the <b>issues</p> tab on this page or msg me on discord
 </p>
  
 ## Features
