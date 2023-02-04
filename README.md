@@ -59,7 +59,7 @@ Can I use MultiMC/ATLauncher etc. with this pack?
 
 Where be thy mod list?
 
-> I giveth to thee: Mod List (Not that the list doesn't account for which library is for which mod)
+> I giveth to thee: LINK PENDING (Not that the list doesn't account for which library is for which mod)
 
 Such an odd name choice, why did ya pick it o' estranged modpack developer?
 
