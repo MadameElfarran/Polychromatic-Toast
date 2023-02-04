@@ -31,7 +31,7 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
   
 # Information
 
-The
+> The
 
 .
 
