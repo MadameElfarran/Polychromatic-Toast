@@ -28,6 +28,24 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
 * Customise almost every aspect of the game.
   * Accessibility features such as ~colorblind modes~ and view bob tuning.
   * Do note that some of the tutorials require basic knowledge of various scripts
+  
+## Information
+
+> Optional Mods: (*disabled by default*)
+ * Better Hand Bobbing  
+   * Allows disabling of screen shaking for users who experience motion-sickness but prefer hand bobbing to remain on
+ * Craftify
+   * Provides a highly customisable display of user's current spotify session
+ * Dynamic Surroundings
+   * provides atmospheric ambience to the game (unwanted ounds can be disabled using _'Extreme Sound Muffler'_)
+ 
+> Developer only:
+ * Better Command Block Ui *(can cause crashes)*
+   * Self-Explanatory
+ * Command Macros *(mostly for operators)*
+   * Gives the user the ability to perform commands with the click of a button
+ * NBT Tooltips
+   * Provides NBT data for the user
 
 ## FAQ
 
