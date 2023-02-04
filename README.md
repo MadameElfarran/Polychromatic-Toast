@@ -27,7 +27,7 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
   * Accessibility features such as ~colorblind modes~ and view bob tuning.
     * Do note that some of the wiki tutorials require basic knowledge of various scripts
   
-# Information
+![PToast Info Banner](https://user-images.githubusercontent.com/80040305/216774131-2760b24e-2c87-4943-9967-50935c392e7f.png)
 
 > The
 
@@ -49,7 +49,7 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
  * NBT Tooltips
    * Provides NBT data in-game
 
-## Current Issues / Improvements I want to make
+![PToast Issue Banner](https://user-images.githubusercontent.com/80040305/216773798-05abad37-99a4-48f7-bc9f-b6670fca0fa3.png)
 
 `1` Client crashes when accessing mod config's in game during heavy load  
 `2` Client takes 3 - 5 mins to load (on my machine specifically)  
