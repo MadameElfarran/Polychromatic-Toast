@@ -31,6 +31,10 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
   
 # Information
 
+The Mod List
+
+.
+
 > Optional Mods: (*disabled by default*)
  * Better Hand Bobbing  
    * Allows disabling of screen shaking for users who experience motion-sickness but prefer hand bobbing to remain on
@@ -52,6 +56,10 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
 Can I use MultiMC/ATLauncher etc. with this pack?
 
 > I actually recommend a third party launcher because MultiMC allows automatic mod updates which I've setup for this pack. However, make sure you have security software installed on your computer when using unnoffical programs. The last thing I want is for users to be exploited by malicious developers. That is to say, not everyone is evil; **just be cautious!**
+
+Where be thy mod list?
+
+> I giveth to thee: Mod List (Not that the list doesn't account for which library is for which mod)
 
 Such an odd name choice, why did ya pick it o' estranged modpack developer?
 
