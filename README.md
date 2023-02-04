@@ -27,7 +27,7 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
   * Easily customisable: check the wiki
 * Customise almost every aspect of the game.
   * Accessibility features such as ~colorblind modes~ and view bob tuning.
-  * Do note that some of the tutorials require basic knowledge of various scripts
+    * Do note that some of the tutorials require basic knowledge of various scripts
   
 # Information
 
