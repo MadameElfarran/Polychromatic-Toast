@@ -15,7 +15,7 @@ Remember to report crashes to the <a href="https://github.com/MadameElfarran/Pol
   
  .
    
-![PToast Features Banner](https://user-images.githubusercontent.com/80040305/216776293-28c5f11d-b09b-467a-95ee-5f6d146840bc.png)
+![PToast Features Banner](https://user-images.githubusercontent.com/80040305/216776700-bac8ecec-1278-4f20-9273-08ddd1b1ee55.png)
 
 Balance is a personal goal of mine when it comes to minecraft modding so there's a splash of everything:
 
