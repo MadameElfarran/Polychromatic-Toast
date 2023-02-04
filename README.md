@@ -12,8 +12,6 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 <h3> <p align="center">
 Remember to report crashes to the <a href="https://github.com/MadameElfarran/Polychromatic-Toast/issues">issues</a> page
 </p> </h3>
-  
- .
    
 ![PToast Features Banner](https://user-images.githubusercontent.com/80040305/216776700-bac8ecec-1278-4f20-9273-08ddd1b1ee55.png)
 
