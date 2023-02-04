@@ -31,17 +31,17 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
   
 # Information
 
-The Mod List
+The
 
 .
 
 > Optional Mods: (*disabled by default*)
  * Better Hand Bobbing  
-   * Allows disabling of screen shaking for users who experience motion-sickness but prefer hand bobbing to remain on
+   * Allows disabling of screen shaking for users who experience motion-sickness but prefer hand bobbing
  * Craftify
    * Provides a highly customisable display of user's current spotify session
  * Dynamic Surroundings
-   * provides atmospheric ambience to the game (unwanted ounds can be disabled using _'Extreme Sound Muffler'_)
+   * provides atmospheric ambience to the game (unwanted sounds can be disabled using _'Extreme Sound Muffler'_ or the mod's configuration)
  
 > Developer only:
  * Better Command Block Ui *(can cause crashes)*
@@ -59,7 +59,7 @@ Can I use MultiMC/ATLauncher etc. with this pack?
 
 Where be thy mod list?
 
-> I giveth to thee: LINK PENDING (Not that the list doesn't account for which library is for which mod)
+> I giveth to thee: LINK PENDING (Note that the list doesn't account for which library is for which mod)
 
 Such an odd name choice, why did ya pick it o' estranged modpack developer?
 
