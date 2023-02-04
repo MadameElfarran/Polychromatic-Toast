@@ -29,7 +29,7 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
   * Accessibility features such as ~colorblind modes~ and view bob tuning.
   * Do note that some of the tutorials require basic knowledge of various scripts
   
-## Information
+# Information
 
 > Optional Mods: (*disabled by default*)
  * Better Hand Bobbing  
