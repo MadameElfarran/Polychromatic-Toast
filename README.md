@@ -7,9 +7,7 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 
 > This project is a work in progress!
  
-![PToast Banner3](https://user-images.githubusercontent.com/80040305/216677026-d9cbc596-c955-444c-94c1-51197ea0847f.png)
-.  
-.  
+![PToast Banner3](https://user-images.githubusercontent.com/80040305/216677026-d9cbc596-c955-444c-94c1-51197ea0847f.png)  
 
 <h3> <p align="center">
 Remember to report crashes to the <a href="https://github.com/MadameElfarran/Polychromatic-Toast/issues">issues</a> page
