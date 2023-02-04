@@ -1978,11 +1978,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "f3b5042d41d7ee0c7b9487228e77b809828a4b898beba3d811f8b6dece35ef41"
 metafile = true
-
-[[files]]
-file = "options.amecsapi.txt"
-hash = "ca066175b39212d266ec1935891466a43a66c04d6d5b321c63ac7a097b948ae3"
-
-[[files]]
-file = "options.txt"
-hash = "3e08becc44dd81e9ef3339424ab92a40ab83c956ea787ab974e08ade5383d66b"
