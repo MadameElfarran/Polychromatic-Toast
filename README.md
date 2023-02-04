@@ -5,7 +5,7 @@ The (P)Toast pack is a semi-minimalistic hand-picked, modular modpack for 1.19.2
 
 This passion project of mine was born from a desire to make minecraft awesome for me and my friends.  
 
-> This project is a work in progress!
+> This project is a work in progress! There is no current available pack to install.
  
 ![PToast Banner3](https://user-images.githubusercontent.com/80040305/216677026-d9cbc596-c955-444c-94c1-51197ea0847f.png)  
 
