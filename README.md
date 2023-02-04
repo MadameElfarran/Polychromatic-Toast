@@ -13,6 +13,8 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 Remember to report crashes to the <a href="https://github.com/MadameElfarran/Polychromatic-Toast/issues">issues</a> page
 </p> </h3>
    
+.  
+   
 ![PToast Features Banner](https://user-images.githubusercontent.com/80040305/216776700-bac8ecec-1278-4f20-9273-08ddd1b1ee55.png)
 
 Balance is a personal goal of mine when it comes to minecraft modding so there's a splash of everything:
@@ -28,10 +30,6 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
     * Do note that some of the wiki tutorials require basic knowledge of various scripts
   
 ![PToast Info Banner](https://user-images.githubusercontent.com/80040305/216774131-2760b24e-2c87-4943-9967-50935c392e7f.png)
-
-> The
-
-.
 
 > Optional Mods: (*disabled by default*)
  * Better Hand Bobbing  
