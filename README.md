@@ -12,8 +12,10 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 <h3> <p align="center">
 Remember to report crashes to the <a href="https://github.com/MadameElfarran/Polychromatic-Toast/issues">issues</a> page
 </p> </h3>
- 
-## Features
+  
+ .
+   
+![PToast Features Banner](https://user-images.githubusercontent.com/80040305/216776293-28c5f11d-b09b-467a-95ee-5f6d146840bc.png)
 
 Balance is a personal goal of mine when it comes to minecraft modding so there's a splash of everything:
 
