@@ -49,6 +49,13 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
  * NBT Tooltips
    * Provides NBT data in-game
 
+## Current Issues / Improvements I want to make
+
+`1` Client crashes when accessing mod config's in game during heavy load  
+`2` Client takes 3 - 5 mins to load (on my machine specifically)  
+`3` Texture conflicts that didn't previously appear have popped up  
+`4` 
+
 ## FAQ
 
 Can I use MultiMC/ATLauncher etc. with this pack?
