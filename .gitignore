@@ -3,3 +3,9 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Exclude Options
+*options.txt
+
+# Exclude Options Amecs
+*options.amecsapi.txt
