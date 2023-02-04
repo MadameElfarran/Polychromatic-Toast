@@ -45,7 +45,7 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
  * Command Macros *(mostly for operators)*
    * Gives the user the ability to perform commands with the click of a button
  * NBT Tooltips
-   * Provides NBT data for the user
+   * Provides NBT data in-game
 
 ## FAQ
 
