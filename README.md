@@ -1,5 +1,5 @@
 # Polychromatic-Toast
-A Colorful Minecraft Modpack
+A Colorful Minecraft Modpack!
 
 The (P)Toast pack is a semi-minimalistic hand-picked, modular modpack for 1.19.2.
 
