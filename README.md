@@ -13,7 +13,7 @@ This passion project of mine was born from a desire to make minecraft awesome fo
 Remember to report crashes to the <a href="https://github.com/MadameElfarran/Polychromatic-Toast/issues">issues</a> page
 </p> </h3>
    
-.  
+<p>&nbsp;</p>
    
 ![PToast Features Banner](https://user-images.githubusercontent.com/80040305/216776700-bac8ecec-1278-4f20-9273-08ddd1b1ee55.png)
 
@@ -28,7 +28,9 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
 * Customise almost every aspect of the game.
   * Accessibility features such as ~colorblind modes~ and view bob tuning.
     * Do note that some of the wiki tutorials require basic knowledge of various scripts
-  
+
+<p>&nbsp;</p>
+
 ![PToast Info Banner](https://user-images.githubusercontent.com/80040305/216774131-2760b24e-2c87-4943-9967-50935c392e7f.png)
 
 > Optional Mods: (*disabled by default*)
@@ -47,12 +49,16 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
  * NBT Tooltips
    * Provides NBT data in-game
 
+<p>&nbsp;</p>
+
 ![PToast Issue Banner](https://user-images.githubusercontent.com/80040305/216773798-05abad37-99a4-48f7-bc9f-b6670fca0fa3.png)
 
 `1` Client crashes when accessing mod config's in game during heavy load  
 `2` Client takes 3 - 5 mins to load (on my machine specifically)  
 `3` Texture conflicts that didn't previously appear have popped up  
 `4` Client starts on low priority using MultiMC
+
+<p>&nbsp;</p>
 
 ## FAQ
 
