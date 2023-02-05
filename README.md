@@ -32,7 +32,7 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
 
 ![PToast Info Banner](https://user-images.githubusercontent.com/80040305/216774131-2760b24e-2c87-4943-9967-50935c392e7f.png)
 
-> Optional Mods: (*disabled by default*)
+**Optional Mods: (*disabled by default*)**
  * `Better Hand Bobbing`  
    * Allows disabling of screen shaking for users who experience motion-sickness but prefer hand bobbing
  * `Craftify`
@@ -42,7 +42,7 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
  * `Methane` (can conflict with _'fog looks good now'_ mod)
    * Completely removes fog and lighting to improve performance
  
-> Developer only:
+**Developer only:**
  * `Better Command Block Ui` *(can cause crashes)*
    * Self-Explanatory
  * `Command Macros` *(mostly for operators)*
