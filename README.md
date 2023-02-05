@@ -22,12 +22,11 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
 * Adventure & world generation additions
   * Mainly _'BYG'_, _'Better Nether'_ & Yung's mods
 * Plenty of new mobs from _'Creatures from the Snow'_, _'Naturalist'_, _'Friends & Foes'_ and more
-* A splash of tech mods such as  _'YTTR'_ & _'Wired Redstone'_
+* Decorations, cosmetic items and many miscellaneous mods 
+  * A splash of tech mods such as  _'YTTR'_ & _'Wired Redstone'_
 * Optimisations abound, the modpack is tested frequently to ensure smoother gameplay
   * Easily customisable: check the wiki
-* Customise almost every aspect of the game.
-  * Accessibility features such as ~colorblind modes~ and view bob tuning.
-    * Do note that some of the wiki tutorials require basic knowledge of various scripts
+* Customise almost every aspect of the game (info on the Wiki).
 
 <p>&nbsp;</p>
 
@@ -58,7 +57,8 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
 `1` Client crashes when accessing mod config's in game during heavy load  
 `2` Client takes 3 - 5 mins to load (on my machine specifically)  
 `3` Texture conflicts that didn't previously appear have popped up  
-`4` Client starts on low priority using MultiMC
+`4` Client starts on low priority using MultiMC  
+`5` Conflicting Random Generation Tables
 
 <p>&nbsp;</p>
 
