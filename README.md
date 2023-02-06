@@ -40,7 +40,7 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
  * `Dynamic Surroundings`
    * provides atmospheric ambience to the game (unwanted sounds can be disabled using _'Extreme Sound Muffler'_ or the mod's configuration)
  
-**Developer only:** (*conflicts/instability*)
+**Developer only: (*conflicts/instability*)**
  * `Better Command Block Ui`
    * Self-Explanatory
  * `Command Macros` *(mostly for operators)*
