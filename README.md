@@ -41,6 +41,7 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
    * provides atmospheric ambience to the game (unwanted sounds can be disabled using _'Extreme Sound Muffler'_ or the mod's configuration)
  * `Methane` (can conflict with _'fog looks good now'_ mod)
    * Completely removes fog and lighting to improve performance
+   * Currently CRASHES due to mod conflicts
  
 **Developer only:**
  * `Better Command Block Ui` *(can cause crashes)*
