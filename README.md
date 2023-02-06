@@ -26,7 +26,7 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
   * A splash of tech mods such as  _'YTTR'_ & _'Wired Redstone'_
 * Optimisations abound, the modpack is tested frequently to ensure smoother gameplay
   * Easily customisable: check the wiki
-* Customise almost every aspect of the game (info on the Wiki).
+* Customise almost every aspect of the game *(info on the [Wiki](https://github.com/MadameElfarran/Polychromatic-Toast/wiki))*.
 
 <p>&nbsp;</p>
 
