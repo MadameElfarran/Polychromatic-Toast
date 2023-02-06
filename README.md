@@ -39,8 +39,12 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
    * Provides a highly customisable display of user's current spotify session
  * `Dynamic Surroundings`
    * provides atmospheric ambience to the game (unwanted sounds can be disabled using _'Extreme Sound Muffler'_ or the mod's configuration)
+ * `Item Swapper`
+   * Allows the player to scroll through item categories on the fly (doesn't work with most mods)
+ * `Midnight Controls`
+   * Controller support- most Keybinds to other mods will be unavailable
  
-**Developer only: (*conflicts/instability*)**
+**Developer only: (*conflicts/instability/unused for now*)**
  * `Better Command Block Ui`
    * Self-Explanatory
  * `Command Macros` *(mostly for operators)*
@@ -49,16 +53,20 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
    * Completely removes fog and lighting to improve performance
  * `NBT Tooltips`
    * Provides NBT data in-game
+ * `Bounced`
+
+> Disabling mods with packwiz set up will simply reinstall them again.  
+> To disable packwiz for manual mod selection check out the [Wiki](https://github.com/MadameElfarran/Polychromatic-Toast/wiki)
 
 <p>&nbsp;</p>
 
 ![PToast Issue Banner](https://user-images.githubusercontent.com/80040305/216773798-05abad37-99a4-48f7-bc9f-b6670fca0fa3.png)
 
-`1` Client crashes when accessing mod config's in game during heavy load  
-`2` Client takes 3 - 5 mins to load (on my machine specifically)  
+`1` Client crashes when accessing mod config's in world during heavy load  
+`2` Client takes 3 - 5 mins to load (on my machine)  
 `3` Texture conflicts that didn't previously appear have popped up  
 `4` Client starts on low priority using MultiMC  
-`5` Conflicting Random Generation Tables
+`5` ~Random Generation Table Crash~ (Better End)
 
 <p>&nbsp;</p>
 
