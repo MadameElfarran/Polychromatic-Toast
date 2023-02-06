@@ -39,15 +39,14 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
    * Provides a highly customisable display of user's current spotify session
  * `Dynamic Surroundings`
    * provides atmospheric ambience to the game (unwanted sounds can be disabled using _'Extreme Sound Muffler'_ or the mod's configuration)
- * `Methane` (can conflict with _'fog looks good now'_ mod)
-   * Completely removes fog and lighting to improve performance
-   * Currently CRASHES due to mod conflicts
  
-**Developer only:**
- * `Better Command Block Ui` *(can cause crashes)*
+**Developer only:** (*Some of these mods are still in testing due to conflicts/instability*)
+ * `Better Command Block Ui`
    * Self-Explanatory
  * `Command Macros` *(mostly for operators)*
-   * Gives the user the ability to perform commands with the click of a button
+   * Gives the user the ability to perform commands with the click of a button 
+ * `Methane`
+   * Completely removes fog and lighting to improve performance
  * `NBT Tooltips`
    * Provides NBT data in-game
 
