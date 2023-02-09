@@ -66,7 +66,7 @@ Balance is a personal goal of mine when it comes to minecraft modding so there's
 `2` Client takes 3 - 5 mins to load (on my machine)  
 `3` Texture conflicts that didn't previously appear have popped up  
 `4` Client starts on low priority using MultiMC  
-`5` ~Random Generation Table Crash~ *(Caused by Better End)*
+`5` ~Random Generation Table Crash~ *(Caused by Better End)*  
 `6` Server data increases exponentially causing high ping for users
 
 <p>&nbsp;</p>
